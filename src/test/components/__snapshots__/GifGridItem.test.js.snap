@@ -4,9 +4,13 @@ exports[`Pruebas en <GifGridItem /> debe mostrar el componente correctamente 1`]
 <div
   className="card"
 >
-  <img />
+  <img
+    alt="Un titulo"
+    src="https://localhost/algo.jpg"
+  />
   <p>
      
+    Un titulo
      
   </p>
 </div>
